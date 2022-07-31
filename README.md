@@ -51,9 +51,9 @@ required features:
 - Play button for starts and stops the animatio
 - Zoom in to a chosen area and zoom out to a default state.
 - Add bezier movement:
+  - Select objects
   - Add points
   - Choose time
-  - Select objects
   - Add bezier movement
   -run animation
  

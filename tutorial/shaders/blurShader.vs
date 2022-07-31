@@ -30,3 +30,4 @@ void main()
 	normal0 = (Model  * vec4(normal, 0.0)).xyz;
 	position0 = vec3(Proj *View *Model * vec4(position, 1.0));
 	
+}
